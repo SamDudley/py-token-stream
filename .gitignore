@@ -1,5 +1,14 @@
+# editor
 .vscode
+
+# unsure
 .cache
+
+# python
 env
+dist
 __pycache__
 *.egg-info
+
+# extra
+todo.txt
